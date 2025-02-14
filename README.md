@@ -29,6 +29,7 @@ Botu başlatmak için şu komutu çalıştırın:
 
 ```bash
 python linkedin_bot.py
+```
 ⚙️ Çalışma Mantığı
 LinkedIn’e giriş yapar.
 Anahtar kelimeler ile kişileri arar.
