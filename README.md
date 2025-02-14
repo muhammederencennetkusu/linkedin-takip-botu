@@ -14,6 +14,7 @@ Bu proje, **Python** ve **Selenium** kullanarak **LinkedIn'de otomatik bağlant�
 Öncelikle, **Selenium** kütüphanesini yükleyin:  
 ```bash
 pip install selenium
+```
 Kullanıcı Bilgilerini Güncelleyin
 LinkedIn kullanıcı adı ve şifrenizi main() fonksiyonuna ekleyin:
 
