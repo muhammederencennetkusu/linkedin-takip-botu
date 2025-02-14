@@ -164,8 +164,8 @@ def main():
     ]
     
     # Kullanıcı bilgileri
-    EMAIL = "programcieren@hotmail.com"
-    PASSWORD = "591163Eren?"
+    EMAIL = "email"
+    PASSWORD = "password"
     
     try:
         bot = LinkedInBot()
